@@ -1,1 +1,1 @@
-PowerShell.exe "C:\Users\%USERNAME%\Desktop\ClickToRun\ADAnalyzer.ps1" -Force
+PowerShell.exe "C:\Users\%USERNAME%\Desktop\ADAnalyzer-main\ADAnalyzer.ps1" -Force
