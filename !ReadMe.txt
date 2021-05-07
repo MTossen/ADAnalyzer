@@ -1,4 +1,4 @@
-0. Download the folder "ClickToRun"
+0. Download the folder "ADAnalyzer-main"
 1. Place it on the desktop of the Domain Controller
 2. Right click "RunAsAdmin.Bat" and click 'Run as administrator'
 3. The powershell script will then start collecting data.
